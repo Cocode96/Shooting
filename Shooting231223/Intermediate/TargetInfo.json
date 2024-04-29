@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shooting231223",
+			"Path": "C:\\Users\\yangc\\Desktop\\Shooting231223\\Source\\Shooting231223.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Shooting231223Editor",
+			"Path": "C:\\Users\\yangc\\Desktop\\Shooting231223\\Source\\Shooting231223Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
